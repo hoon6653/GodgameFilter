@@ -1,1 +1,1 @@
-# GodgameReader
+# GodgameFilter
